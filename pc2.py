@@ -21,3 +21,5 @@ trans = string.maketrans(abc, abc[2:] + abc[:2])
 
 print input.translate(trans)
 print "map".translate(trans)
+
+# Output: http://www.pythonchallenge.com/pc/def/ocr.html
