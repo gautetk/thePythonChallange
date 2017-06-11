@@ -25,3 +25,4 @@ for i in text:
 print word
 
 # Output: http://www.pythonchallenge.com/pc/def/equality.html
+test
